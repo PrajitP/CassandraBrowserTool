@@ -1,6 +1,6 @@
+
+
 import pycassa
-import bisect
-import hashlib
 import sys
 
 from pycassa.system_manager import *
@@ -81,8 +81,9 @@ class keyspace:
 			x.append(key)
 		return x
 
+
 def main():
-	print "You are in main" 
+#	print "You are in main" 
 	key = keyspace()
 	#key.keyspace_delete('localhost:9160','TestKeyspace')
 	#key.keyspace_create('localhost:9160','samp4')
@@ -102,3 +103,6 @@ def main():
 
 if __name__ == "__main__": 
 	main()
+
+
+
