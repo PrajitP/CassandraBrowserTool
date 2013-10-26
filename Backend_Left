@@ -1,0 +1,20 @@
+
+
+IF we are having column families for large database we had to limit the data of column families to be displayed to the user.
+Some additional feature for the display has to be created.
+
+
+We had to first run our code on single cluster and then move it to more clusters.
+
+
+Connection Pool : to collaborate all the machines as a single cluster
+
+
+Add feature of adding machine to the user
+
+
+
+
+
+
+
