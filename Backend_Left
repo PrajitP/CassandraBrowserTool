@@ -1,5 +1,4 @@
 
-
 IF we are having column families for large database we had to limit the data of column families to be displayed to the user.
 Some additional feature for the display has to be created.
 
@@ -15,6 +14,11 @@ Add feature of adding machine to the user
 
 
 
+Work to be Done ::
+
+=> Study Webob
+=> Go through pycassa tutorial
+=> 
 
 
 
